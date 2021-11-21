@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g id="Group_607" data-name="Group 607" transform="translate(-6 -5)">
+    <rect id="Rectangle_1478" data-name="Rectangle 1478" width="64" height="64" rx="25" transform="translate(6 5)" fill="#cee5d0"/>
+    <path id="Icon_material-location-city" data-name="Icon material-location-city" d="M20.5,14.605V6.868L16.5,3l-4,3.868V9.447h-8V27.5h24V14.605ZM9.833,24.921H7.167V22.342H9.833Zm0-5.158H7.167V17.184H9.833Zm0-5.158H7.167V12.026H9.833Zm8,10.316H15.167V22.342h2.667Zm0-5.158H15.167V17.184h2.667Zm0-5.158H15.167V12.026h2.667Zm0-5.158H15.167V6.868h2.667Zm8,15.474H23.167V22.342h2.667Zm0-5.158H23.167V17.184h2.667Z" transform="translate(21.5 22)"/>
+  </g>
+</svg>
